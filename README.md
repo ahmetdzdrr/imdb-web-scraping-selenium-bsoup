@@ -1,5 +1,7 @@
 # IMDb Top 250 Movies Scraper
 
+![image](https://github.com/user-attachments/assets/79fffa26-a33c-4f44-a79c-4fc41f33ba75)
+
 This project provides a Python-based solution to scrape IMDb's Top 250 movies list using Selenium and BeautifulSoup. The script extracts detailed movie information including title, year, rating, votes, and duration, and saves it in a CSV file for further analysis.
 
 ## Table of Contents
