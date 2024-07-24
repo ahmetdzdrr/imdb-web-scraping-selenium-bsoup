@@ -56,7 +56,7 @@ Execute the Python script to start the scraping process:
 2. Check the Output:
 After execution, you will find the scraped data saved in `imdb.csv`.
 
-## Output
+## Output
 
 The script generates a CSV file named imdb.csv with the following columns:
 
@@ -67,17 +67,17 @@ The script generates a CSV file named imdb.csv with the following columns:
 - **duration**: Duration in minutes
 - **link**: IMDb movie URL
 
-## Example Output
+## Example Output
 
     Scraped movie 1: The Shawshank Redemption, Year: 1994, Rating: 9.3, Vote: 2,366,758, Duration: 142, Link: https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1
 
-## Notes
+## Notes
 
 - Ensure that you have a stable internet connection as the script fetches data from the web.
 - The scraping delay (time.sleep(1.5)) is added to avoid overloading IMDb's servers and to simulate human-like browsing behavior.
 - This script uses Selenium for handling dynamic content loaded via JavaScript.
 
-## License
+## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
