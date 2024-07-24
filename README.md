@@ -36,8 +36,8 @@ This project provides a Python-based solution to scrape IMDb's Top 250 movies li
 
 1. Clone the Repository:
 
-    git clone https://github.com/yourusername/imdb-web-scraping-selenium-bsoup.git
-    cd imdb-web-scraping-selenium-bsoup
+        git clone https://github.com/yourusername/imdb-web-scraping-selenium-bsoup.git
+        cd imdb-web-scraping-selenium-bsoup
 
 2. Install Python Dependencies:
 
